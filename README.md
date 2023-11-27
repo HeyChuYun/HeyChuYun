@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://github-readme-stats.vercel.app/api?username=HeyChuYune&show_icons=true&theme=transparent)
+
+
+![](https://github-profile-trophy.vercel.app/?username=HeyChuYun&rank=S)
 ![Visitor Count](https://profile-counter.glitch.me/HeyChuYun/count.svg)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeyChuYun&layout=compact&theme=tokyonight)
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=HeyChuYun&theme=dracula)
