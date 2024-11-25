@@ -1,6 +1,6 @@
-<!-- ### 欢迎来到前端嚣张农民GitHub主页 👋 -->
+<!-- ### 欢迎来到全栈 HeyChuYun 的 GitHub主页 👋 -->
 
-<h1 align="center">欢迎来到储云GitHub主页👋</h1>
+<h1 align="center">欢迎来到 HeyChuYun 的 GitHub主页👋</h1>
 
 <!--
 **HeyChuYun/HeyChuYun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,19 +19,15 @@ Here are some ideas to get you started:
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeyChuYun&show_icons=true&theme=radical) -->
 - 🚀 I use daily:
   [![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)](https://HeyChuYun.github.io/HeyChuYunBlog/)
-  [![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)](https://HeyChuYun.github.io/HeyChuYunBlog/)
   [![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)](https://HeyChuYun.github.io/HeyChuYunBlog/)
   [![Shell](https://img.shields.io/badge/-Shell-4EC422?logo=Shell&logoColor=FF7043)](https://HeyChuYun.github.io/HeyChuYunBlog/)
   [![Nginx](https://img.shields.io/badge/-Nginx-F6C915?logo=nginx&logoColor=029137)](https://HeyChuYun.github.io/HeyChuYunBlog/)
-  [![Webpack](https://img.shields.io/badge/-webpack-2B3A42?logo=webpack&logoColor=75AFCC)](https://HeyChuYun.github.io/HeyChuYunBlog/)
-  [![NPM](https://img.shields.io/badge/-NPM-2875E3?logo=npm&logoColor=029137)](https://HeyChuYun.github.io/HeyChuYunBlog/)
   [![Postman](https://img.shields.io/badge/-Postman-7A1FA2?logo=postman&logoColor=FC8019)](https://HeyChuYun.github.io/HeyChuYunBlog/)
   [![Docker](https://img.shields.io/badge/docker-20232A?logo=docker&logoColor=61DAFB)](https://HeyChuYun.github.io/HeyChuYunBlog/)
-  [![Jenkins](https://img.shields.io/badge/-Jenkins-F6C915?logo=jenkins&logoColor=F16061)](https://HeyChuYun.github.io/HeyChuYunBlog/)
 
 - 💻 I work using:
   [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)](https://HeyChuYun.github.io/HeyChuYunBlog/)
-  [![GoLand](https://img.shields.io/badge/-GoLand-000?logo=goland&logoColor=00ACC1)](https://HeyChuYun.github.io/HeyChuYunBlog/)
+  [![IDEA](https://img.shields.io/badge/-IDEA-000?logo=IDEA&logoColor=00ACC1)](https://HeyChuYun.github.io/HeyChuYunBlog/)
   [![Gitee](https://img.shields.io/badge/-Gitee-A80025?logo=gitee&logoColor=F16061)](https://HeyChuYun.github.io/HeyChuYunBlog/)
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)](https://HeyChuYun.github.io/HeyChuYunBlog/)
   [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)](https://HeyChuYun.github.io/HeyChuYunBlog/)
@@ -42,14 +38,16 @@ Here are some ideas to get you started:
   [![Golang](https://img.shields.io/badge/-Golang-02569B?logo=go&logoColor=00ACC1)](https://HeyChuYun.github.io/HeyChuYunBlog/)
   [![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)](https://HeyChuYun.github.io/HeyChuYunBlog/)
   [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)](https://HeyChuYun.github.io/HeyChuYunBlog/)
+  [![Dart](https://img.shields.io/badge/-Dart-000?logo=Dart&logoColor=00ACC1)](https://HeyChuYun.github.io/HeyChuYunBlog/)
+  [![Java](https://img.shields.io/badge/-Java-000?logo=Java&logoColor=00ACC1)](https://HeyChuYun.github.io/HeyChuYunBlog/)
+  [![Kotlin](https://img.shields.io/badge/-Kotlin-000?logo=Kotlin&logoColor=00ACC1)](https://HeyChuYun.github.io/HeyChuYunBlog/)
   [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)](https://HeyChuYun.github.io/HeyChuYunBlog/)
   [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)](https://HeyChuYun.github.io/HeyChuYunBlog/)
 
 - 🌱 I’m currently learning:
-  [![V8](https://img.shields.io/badge/-V8-3DDC84?logo=v8&logoColor=4788F4)](https://HeyChuYun.github.io/HeyChuYunBlog/)
-  [![Golang](https://img.shields.io/badge/-Golang-02569B?logo=go&logoColor=00ACC1)](https://HeyChuYun.github.io/HeyChuYunBlog/)
-  [![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)](https://HeyChuYun.github.io/HeyChuYunBlog/)
-  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes&logoColor=316CE6)](https://HeyChuYun.github.io/HeyChuYunBlog/)
+  [![Dart](https://img.shields.io/badge/-Dart-000?logo=Dart&logoColor=00ACC1)](https://HeyChuYun.github.io/HeyChuYunBlog/)
+  [![Flutter](https://img.shields.io/badge/-Flutter-000?logo=Flutter&logoColor=00ACC1)](https://HeyChuYun.github.io/HeyChuYunBlog/)
+  [![SpringBoot](https://img.shields.io/badge/-SpringBoot-000?logo=SpringBoot&logoColor=00ACC1)](https://HeyChuYun.github.io/HeyChuYunBlog/)
 
 
 Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)](https://HeyChuYun.github.io/HeyChuYunBlog/) visitor, Thank You!🎉🎉
@@ -62,7 +60,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smil
 
 🔥 My projects:
 -----------------------
-个人博客hexo：https://www.chuyun.site
+个人博客hexo：
 
 
 🔥 My Skill Set:
