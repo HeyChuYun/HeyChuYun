@@ -35,8 +35,6 @@ Here are some ideas to get you started:
   [![Git Extensions](https://img.shields.io/badge/-Git%20Extensions-green?logo=git%20extensions&logoColor=DE3929)](https://HeyChuYun.github.io/HeyChuYunBlog/)
 
 - ⚙️ I also use and work:
-  [![Golang](https://img.shields.io/badge/-Golang-02569B?logo=go&logoColor=00ACC1)](https://HeyChuYun.github.io/HeyChuYunBlog/)
-  [![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)](https://HeyChuYun.github.io/HeyChuYunBlog/)
   [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)](https://HeyChuYun.github.io/HeyChuYunBlog/)
   [![Dart](https://img.shields.io/badge/-Dart-000?logo=Dart&logoColor=00ACC1)](https://HeyChuYun.github.io/HeyChuYunBlog/)
   [![Java](https://img.shields.io/badge/-Java-000?logo=Java&logoColor=00ACC1)](https://HeyChuYun.github.io/HeyChuYunBlog/)
