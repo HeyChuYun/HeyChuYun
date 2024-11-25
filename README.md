@@ -47,8 +47,6 @@ Here are some ideas to get you started:
   [![Flutter](https://img.shields.io/badge/-Flutter-000?logo=Flutter&logoColor=00ACC1)](https://HeyChuYun.github.io/HeyChuYunBlog/)
   [![SpringBoot](https://img.shields.io/badge/-SpringBoot-000?logo=SpringBoot&logoColor=00ACC1)](https://HeyChuYun.github.io/HeyChuYunBlog/)
 
-
-Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)](https://HeyChuYun.github.io/HeyChuYunBlog/) visitor, Thank You!🎉🎉
 <!--
 <div align="center" > <img height="137px" src="https://github-readme-stats.vercel.app/api?username=HeyChuYun&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 -->
